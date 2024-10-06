@@ -1,0 +1,1306 @@
+
+gp> \r  fixpat.gp
+
+Fixed pattern presentation
+
+n= 2 1 + 1
+L
+short 1 1
+L
+n= 2 Pr.Length= 1
+n^2= 4 diameter= 1
+ratios: 0.2500 1.0000 
+Reached RN
+presentation Checked.
+
+
+n= 3 2 + 1
+XR
+short 2 2
+XR
+n= 3 Pr.Length= 2
+n^2= 9 diameter= 3
+ratios: 0.2222 0.6667 
+Reached RN
+presentation Checked.
+
+
+n= 4 2 + 2
+XLLX
+short 4 4
+XLLX
+n= 4 Pr.Length= 4
+n^2= 16 diameter= 6
+ratios: 0.2500 0.6667 
+Reached RN
+presentation Checked.
+
+
+n= 5 3 + 2
+XLXRXRRX
+short 8 8
+XLXRXRRX
+n= 5 Pr.Length= 8
+n^2= 25 diameter= 10
+ratios: 0.3200 0.8000 
+Reached RN
+presentation Checked.
+
+
+n= 6 3 + 3
+XLXRXLLLXLXRX
+short 13 13
+XLXRXLLLXLXRX
+n= 6 Pr.Length= 13
+n^2= 36 diameter= 15
+ratios: 0.3611 0.8667 
+Reached RN
+presentation Checked.
+
+
+n= 7 4 + 3
+XLXRXLLXRRLXRXRRRXLXRX
+short 22 20
+XLXRXLLXRXRXRRRXLXRX
+short 20 20
+XLXRXLLXRXRXRRRXLXRX
+n= 7 Pr.Length= 20
+n^2= 49 diameter= 21
+ratios: 0.4082 0.9524 
+Reached RN
+presentation Checked.
+
+
+n= 8 4 + 4
+XLXRXLLXRRLXRXLLLLXLXRXLLXRRLXRX
+short 32 28
+XLXRXLLXRXRXLLLLXLXRXLLXRXRX
+short 28 28
+XLXRXLLXRXRXLLLLXLXRXLLXRXRX
+n= 8 Pr.Length= 28
+n^2= 64 diameter= 28
+ratios: 0.4375 1.0000 
+Reached RN
+presentation Checked.
+
+
+n= 9 5 + 4
+n= 9 Pr.Length= 38
+n^2= 81 diameter= 36
+ratios: 0.4691 1.0556 
+Reached RN
+presentation Checked.
+
+
+n= 10 5 + 5
+n= 10 Pr.Length= 49
+n^2= 100 diameter= 45
+ratios: 0.4900 1.0889 
+Reached RN
+presentation Checked.
+
+
+n= 11 6 + 5
+n= 11 Pr.Length= 62
+n^2= 121 diameter= 55
+ratios: 0.5124 1.1273 
+Reached RN
+presentation Checked.
+
+n= 12 6 + 6
+n= 12 Pr.Length= 76
+n^2= 144 diameter= 66
+ratios: 0.5278 1.1515 
+Reached RN
+presentation Checked.
+
+n= 13 7 + 6
+n= 13 Pr.Length= 92
+n^2= 169 diameter= 78
+ratios: 0.5444 1.1795 
+Reached RN
+presentation Checked.
+
+n= 14 7 + 7
+n= 14 Pr.Length= 109
+n^2= 196 diameter= 91
+ratios: 0.5561 1.1978 
+Reached RN
+presentation Checked.
+
+n= 15 8 + 7
+n= 15 Pr.Length= 128
+n^2= 225 diameter= 105
+ratios: 0.5689 1.2190 
+Reached RN
+presentation Checked.
+
+n= 16 8 + 8
+n= 16 Pr.Length= 148
+n^2= 256 diameter= 120
+ratios: 0.5781 1.2333 
+Reached RN
+presentation Checked.
+
+n= 17 9 + 8
+n= 17 Pr.Length= 170
+n^2= 289 diameter= 136
+ratios: 0.5882 1.2500 
+Reached RN
+presentation Checked.
+
+n= 18 9 + 9
+n= 18 Pr.Length= 193
+n^2= 324 diameter= 153
+ratios: 0.5957 1.2614 
+Reached RN
+presentation Checked.
+
+n= 19 10 + 9
+n= 19 Pr.Length= 218
+n^2= 361 diameter= 171
+ratios: 0.6039 1.2749 
+Reached RN
+presentation Checked.
+
+n= 20 10 + 10
+n= 20 Pr.Length= 244
+n^2= 400 diameter= 190
+ratios: 0.6100 1.2842 
+Reached RN
+presentation Checked.
+
+n= 21 11 + 10
+n= 21 Pr.Length= 272
+n^2= 441 diameter= 210
+ratios: 0.6168 1.2952 
+Reached RN
+presentation Checked.
+
+n= 22 11 + 11
+n= 22 Pr.Length= 301
+n^2= 484 diameter= 231
+ratios: 0.6219 1.3030 
+Reached RN
+presentation Checked.
+
+n= 23 12 + 11
+n= 23 Pr.Length= 332
+n^2= 529 diameter= 253
+ratios: 0.6276 1.3123 
+Reached RN
+presentation Checked.
+
+n= 24 12 + 12
+n= 24 Pr.Length= 364
+n^2= 576 diameter= 276
+ratios: 0.6319 1.3188 
+Reached RN
+presentation Checked.
+
+n= 25 13 + 12
+n= 25 Pr.Length= 398
+n^2= 625 diameter= 300
+ratios: 0.6368 1.3267 
+Reached RN
+presentation Checked.
+
+n= 26 13 + 13
+n= 26 Pr.Length= 433
+n^2= 676 diameter= 325
+ratios: 0.6405 1.3323 
+Reached RN
+presentation Checked.
+
+n= 27 14 + 13
+n= 27 Pr.Length= 470
+n^2= 729 diameter= 351
+ratios: 0.6447 1.3390 
+Reached RN
+presentation Checked.
+
+n= 28 14 + 14
+n= 28 Pr.Length= 508
+n^2= 784 diameter= 378
+ratios: 0.6480 1.3439 
+Reached RN
+presentation Checked.
+
+n= 29 15 + 14
+n= 29 Pr.Length= 548
+n^2= 841 diameter= 406
+ratios: 0.6516 1.3498 
+Reached RN
+presentation Checked.
+
+n= 30 15 + 15
+n= 30 Pr.Length= 589
+n^2= 900 diameter= 435
+ratios: 0.6544 1.3540 
+Reached RN
+presentation Checked.
+
+n= 31 16 + 15
+n= 31 Pr.Length= 632
+n^2= 961 diameter= 465
+ratios: 0.6576 1.3591 
+Reached RN
+presentation Checked.
+
+n= 32 16 + 16
+n= 32 Pr.Length= 676
+n^2= 1024 diameter= 496
+ratios: 0.6602 1.3629 
+Reached RN
+presentation Checked.
+
+n= 33 17 + 16
+n= 33 Pr.Length= 722
+n^2= 1089 diameter= 528
+ratios: 0.6630 1.3674 
+Reached RN
+presentation Checked.
+
+n= 34 17 + 17
+n= 34 Pr.Length= 769
+n^2= 1156 diameter= 561
+ratios: 0.6652 1.3708 
+Reached RN
+presentation Checked.
+
+n= 35 18 + 17
+n= 35 Pr.Length= 818
+n^2= 1225 diameter= 595
+ratios: 0.6678 1.3748 
+Reached RN
+presentation Checked.
+
+n= 36 18 + 18
+n= 36 Pr.Length= 868
+n^2= 1296 diameter= 630
+ratios: 0.6698 1.3778 
+Reached RN
+presentation Checked.
+
+n= 37 19 + 18
+n= 37 Pr.Length= 920
+n^2= 1369 diameter= 666
+ratios: 0.6720 1.3814 
+Reached RN
+presentation Checked.
+
+n= 38 19 + 19
+n= 38 Pr.Length= 973
+n^2= 1444 diameter= 703
+ratios: 0.6738 1.3841 
+Reached RN
+presentation Checked.
+
+n= 39 20 + 19
+n= 39 Pr.Length= 1028
+n^2= 1521 diameter= 741
+ratios: 0.6759 1.3873 
+Reached RN
+presentation Checked.
+
+n= 40 20 + 20
+n= 40 Pr.Length= 1084
+n^2= 1600 diameter= 780
+ratios: 0.6775 1.3897 
+Reached RN
+presentation Checked.
+
+n= 41 21 + 20
+n= 41 Pr.Length= 1142
+n^2= 1681 diameter= 820
+ratios: 0.6794 1.3927 
+Reached RN
+presentation Checked.
+
+n= 42 21 + 21
+n= 42 Pr.Length= 1201
+n^2= 1764 diameter= 861
+ratios: 0.6808 1.3949 
+Reached RN
+presentation Checked.
+
+n= 43 22 + 21
+n= 43 Pr.Length= 1262
+n^2= 1849 diameter= 903
+ratios: 0.6825 1.3976 
+Reached RN
+presentation Checked.
+
+n= 44 22 + 22
+n= 44 Pr.Length= 1324
+n^2= 1936 diameter= 946
+ratios: 0.6839 1.3996 
+Reached RN
+presentation Checked.
+
+n= 45 23 + 22
+n= 45 Pr.Length= 1388
+n^2= 2025 diameter= 990
+ratios: 0.6854 1.4020 
+Reached RN
+presentation Checked.
+
+n= 46 23 + 23
+n= 46 Pr.Length= 1453
+n^2= 2116 diameter= 1035
+ratios: 0.6867 1.4039 
+Reached RN
+presentation Checked.
+
+n= 47 24 + 23
+n= 47 Pr.Length= 1520
+n^2= 2209 diameter= 1081
+ratios: 0.6881 1.4061 
+Reached RN
+presentation Checked.
+
+n= 48 24 + 24
+n= 48 Pr.Length= 1588
+n^2= 2304 diameter= 1128
+ratios: 0.6892 1.4078 
+Reached RN
+presentation Checked.
+
+n= 49 25 + 24
+n= 49 Pr.Length= 1658
+n^2= 2401 diameter= 1176
+ratios: 0.6905 1.4099 
+Reached RN
+presentation Checked.
+
+n= 50 25 + 25
+n= 50 Pr.Length= 1729
+n^2= 2500 diameter= 1225
+ratios: 0.6916 1.4114 
+Reached RN
+presentation Checked.
+
+n= 51 26 + 25
+n= 51 Pr.Length= 1802
+n^2= 2601 diameter= 1275
+ratios: 0.6928 1.4133 
+Reached RN
+presentation Checked.
+
+n= 52 26 + 26
+n= 52 Pr.Length= 1876
+n^2= 2704 diameter= 1326
+ratios: 0.6938 1.4148 
+Reached RN
+presentation Checked.
+
+n= 53 27 + 26
+n= 53 Pr.Length= 1952
+n^2= 2809 diameter= 1378
+ratios: 0.6949 1.4165 
+Reached RN
+presentation Checked.
+
+n= 54 27 + 27
+n= 54 Pr.Length= 2029
+n^2= 2916 diameter= 1431
+ratios: 0.6958 1.4179 
+Reached RN
+presentation Checked.
+
+n= 55 28 + 27
+n= 55 Pr.Length= 2108
+n^2= 3025 diameter= 1485
+ratios: 0.6969 1.4195 
+Reached RN
+presentation Checked.
+
+n= 56 28 + 28
+n= 56 Pr.Length= 2188
+n^2= 3136 diameter= 1540
+ratios: 0.6977 1.4208 
+Reached RN
+presentation Checked.
+
+n= 57 29 + 28
+n= 57 Pr.Length= 2270
+n^2= 3249 diameter= 1596
+ratios: 0.6987 1.4223 
+Reached RN
+presentation Checked.
+
+n= 58 29 + 29
+n= 58 Pr.Length= 2353
+n^2= 3364 diameter= 1653
+ratios: 0.6995 1.4235 
+Reached RN
+presentation Checked.
+
+n= 59 30 + 29
+n= 59 Pr.Length= 2438
+n^2= 3481 diameter= 1711
+ratios: 0.7004 1.4249 
+Reached RN
+presentation Checked.
+
+n= 60 30 + 30
+n= 60 Pr.Length= 2524
+n^2= 3600 diameter= 1770
+ratios: 0.7011 1.4260 
+Reached RN
+presentation Checked.
+
+n= 61 31 + 30
+n= 61 Pr.Length= 2612
+n^2= 3721 diameter= 1830
+ratios: 0.7020 1.4273 
+Reached RN
+presentation Checked.
+
+n= 62 31 + 31
+n= 62 Pr.Length= 2701
+n^2= 3844 diameter= 1891
+ratios: 0.7027 1.4283 
+Reached RN
+presentation Checked.
+
+n= 63 32 + 31
+n= 63 Pr.Length= 2792
+n^2= 3969 diameter= 1953
+ratios: 0.7035 1.4296 
+Reached RN
+presentation Checked.
+
+n= 64 32 + 32
+n= 64 Pr.Length= 2884
+n^2= 4096 diameter= 2016
+ratios: 0.7041 1.4306 
+Reached RN
+presentation Checked.
+
+n= 65 33 + 32
+n= 65 Pr.Length= 2978
+n^2= 4225 diameter= 2080
+ratios: 0.7049 1.4317 
+Reached RN
+presentation Checked.
+
+n= 66 33 + 33
+n= 66 Pr.Length= 3073
+n^2= 4356 diameter= 2145
+ratios: 0.7055 1.4326 
+Reached RN
+presentation Checked.
+
+n= 67 34 + 33
+n= 67 Pr.Length= 3170
+n^2= 4489 diameter= 2211
+ratios: 0.7062 1.4337 
+Reached RN
+presentation Checked.
+
+n= 68 34 + 34
+n= 68 Pr.Length= 3268
+n^2= 4624 diameter= 2278
+ratios: 0.7067 1.4346 
+Reached RN
+presentation Checked.
+
+n= 69 35 + 34
+n= 69 Pr.Length= 3368
+n^2= 4761 diameter= 2346
+ratios: 0.7074 1.4356 
+Reached RN
+presentation Checked.
+
+n= 70 35 + 35
+n= 70 Pr.Length= 3469
+n^2= 4900 diameter= 2415
+ratios: 0.7080 1.4364 
+Reached RN
+presentation Checked.
+
+n= 71 36 + 35
+n= 71 Pr.Length= 3572
+n^2= 5041 diameter= 2485
+ratios: 0.7086 1.4374 
+Reached RN
+presentation Checked.
+
+n= 72 36 + 36
+n= 72 Pr.Length= 3676
+n^2= 5184 diameter= 2556
+ratios: 0.7091 1.4382 
+Reached RN
+presentation Checked.
+
+n= 73 37 + 36
+n= 73 Pr.Length= 3782
+n^2= 5329 diameter= 2628
+ratios: 0.7097 1.4391 
+Reached RN
+presentation Checked.
+
+n= 74 37 + 37
+n= 74 Pr.Length= 3889
+n^2= 5476 diameter= 2701
+ratios: 0.7102 1.4398 
+Reached RN
+presentation Checked.
+
+n= 75 38 + 37
+n= 75 Pr.Length= 3998
+n^2= 5625 diameter= 2775
+ratios: 0.7108 1.4407 
+Reached RN
+presentation Checked.
+
+n= 76 38 + 38
+n= 76 Pr.Length= 4108
+n^2= 5776 diameter= 2850
+ratios: 0.7112 1.4414 
+Reached RN
+presentation Checked.
+
+n= 77 39 + 38
+n= 77 Pr.Length= 4220
+n^2= 5929 diameter= 2926
+ratios: 0.7118 1.4422 
+Reached RN
+presentation Checked.
+
+n= 78 39 + 39
+n= 78 Pr.Length= 4333
+n^2= 6084 diameter= 3003
+ratios: 0.7122 1.4429 
+Reached RN
+presentation Checked.
+
+n= 79 40 + 39
+n= 79 Pr.Length= 4448
+n^2= 6241 diameter= 3081
+ratios: 0.7127 1.4437 
+Reached RN
+presentation Checked.
+
+n= 80 40 + 40
+n= 80 Pr.Length= 4564
+n^2= 6400 diameter= 3160
+ratios: 0.7131 1.4443 
+Reached RN
+presentation Checked.
+
+n= 81 41 + 40
+n= 81 Pr.Length= 4682
+n^2= 6561 diameter= 3240
+ratios: 0.7136 1.4451 
+Reached RN
+presentation Checked.
+
+n= 82 41 + 41
+n= 82 Pr.Length= 4801
+n^2= 6724 diameter= 3321
+ratios: 0.7140 1.4456 
+Reached RN
+presentation Checked.
+
+n= 83 42 + 41
+n= 83 Pr.Length= 4922
+n^2= 6889 diameter= 3403
+ratios: 0.7145 1.4464 
+Reached RN
+presentation Checked.
+
+n= 84 42 + 42
+n= 84 Pr.Length= 5044
+n^2= 7056 diameter= 3486
+ratios: 0.7149 1.4469 
+Reached RN
+presentation Checked.
+
+n= 85 43 + 42
+n= 85 Pr.Length= 5168
+n^2= 7225 diameter= 3570
+ratios: 0.7153 1.4476 
+Reached RN
+presentation Checked.
+
+n= 86 43 + 43
+n= 86 Pr.Length= 5293
+n^2= 7396 diameter= 3655
+ratios: 0.7157 1.4482 
+Reached RN
+presentation Checked.
+
+n= 87 44 + 43
+n= 87 Pr.Length= 5420
+n^2= 7569 diameter= 3741
+ratios: 0.7161 1.4488 
+Reached RN
+presentation Checked.
+
+n= 88 44 + 44
+n= 88 Pr.Length= 5548
+n^2= 7744 diameter= 3828
+ratios: 0.7164 1.4493 
+Reached RN
+presentation Checked.
+
+n= 89 45 + 44
+n= 89 Pr.Length= 5678
+n^2= 7921 diameter= 3916
+ratios: 0.7168 1.4499 
+Reached RN
+presentation Checked.
+
+n= 90 45 + 45
+n= 90 Pr.Length= 5809
+n^2= 8100 diameter= 4005
+ratios: 0.7172 1.4504 
+Reached RN
+presentation Checked.
+
+n= 91 46 + 45
+n= 91 Pr.Length= 5942
+n^2= 8281 diameter= 4095
+ratios: 0.7175 1.4510 
+Reached RN
+presentation Checked.
+
+n= 92 46 + 46
+n= 92 Pr.Length= 6076
+n^2= 8464 diameter= 4186
+ratios: 0.7179 1.4515 
+Reached RN
+presentation Checked.
+
+n= 93 47 + 46
+n= 93 Pr.Length= 6212
+n^2= 8649 diameter= 4278
+ratios: 0.7182 1.4521 
+Reached RN
+presentation Checked.
+
+n= 94 47 + 47
+n= 94 Pr.Length= 6349
+n^2= 8836 diameter= 4371
+ratios: 0.7185 1.4525 
+Reached RN
+presentation Checked.
+
+n= 95 48 + 47
+n= 95 Pr.Length= 6488
+n^2= 9025 diameter= 4465
+ratios: 0.7189 1.4531 
+Reached RN
+presentation Checked.
+
+n= 96 48 + 48
+n= 96 Pr.Length= 6628
+n^2= 9216 diameter= 4560
+ratios: 0.7192 1.4535 
+Reached RN
+presentation Checked.
+
+n= 97 49 + 48
+n= 97 Pr.Length= 6770
+n^2= 9409 diameter= 4656
+ratios: 0.7195 1.4540 
+Reached RN
+presentation Checked.
+
+n= 98 49 + 49
+n= 98 Pr.Length= 6913
+n^2= 9604 diameter= 4753
+ratios: 0.7198 1.4544 
+Reached RN
+presentation Checked.
+
+n= 99 50 + 49
+n= 99 Pr.Length= 7058
+n^2= 9801 diameter= 4851
+ratios: 0.7201 1.4550 
+Reached RN
+presentation Checked.
+
+n= 100 50 + 50
+n= 100 Pr.Length= 7204
+n^2= 10000 diameter= 4950
+ratios: 0.7204 1.4554 
+Reached RN
+presentation Checked.
+
+n= 101 51 + 50
+n= 101 Pr.Length= 7352
+n^2= 10201 diameter= 5050
+ratios: 0.7207 1.4558 
+Reached RN
+presentation Checked.
+
+n= 102 51 + 51
+n= 102 Pr.Length= 7501
+n^2= 10404 diameter= 5151
+ratios: 0.7210 1.4562 
+Reached RN
+presentation Checked.
+
+n= 103 52 + 51
+n= 103 Pr.Length= 7652
+n^2= 10609 diameter= 5253
+ratios: 0.7213 1.4567 
+Reached RN
+presentation Checked.
+
+n= 104 52 + 52
+n= 104 Pr.Length= 7804
+n^2= 10816 diameter= 5356
+ratios: 0.7215 1.4571 
+Reached RN
+presentation Checked.
+
+n= 105 53 + 52
+n= 105 Pr.Length= 7958
+n^2= 11025 diameter= 5460
+ratios: 0.7218 1.4575 
+Reached RN
+presentation Checked.
+
+n= 106 53 + 53
+n= 106 Pr.Length= 8113
+n^2= 11236 diameter= 5565
+ratios: 0.7221 1.4579 
+Reached RN
+presentation Checked.
+
+n= 107 54 + 53
+n= 107 Pr.Length= 8270
+n^2= 11449 diameter= 5671
+ratios: 0.7223 1.4583 
+Reached RN
+presentation Checked.
+
+n= 108 54 + 54
+n= 108 Pr.Length= 8428
+n^2= 11664 diameter= 5778
+ratios: 0.7226 1.4586 
+Reached RN
+presentation Checked.
+
+n= 109 55 + 54
+n= 109 Pr.Length= 8588
+n^2= 11881 diameter= 5886
+ratios: 0.7228 1.4591 
+Reached RN
+presentation Checked.
+
+n= 110 55 + 55
+n= 110 Pr.Length= 8749
+n^2= 12100 diameter= 5995
+ratios: 0.7231 1.4594 
+Reached RN
+presentation Checked.
+
+n= 111 56 + 55
+n= 111 Pr.Length= 8912
+n^2= 12321 diameter= 6105
+ratios: 0.7233 1.4598 
+Reached RN
+presentation Checked.
+
+n= 112 56 + 56
+n= 112 Pr.Length= 9076
+n^2= 12544 diameter= 6216
+ratios: 0.7235 1.4601 
+Reached RN
+presentation Checked.
+
+n= 113 57 + 56
+n= 113 Pr.Length= 9242
+n^2= 12769 diameter= 6328
+ratios: 0.7238 1.4605 
+Reached RN
+presentation Checked.
+
+n= 114 57 + 57
+n= 114 Pr.Length= 9409
+n^2= 12996 diameter= 6441
+ratios: 0.7240 1.4608 
+Reached RN
+presentation Checked.
+
+n= 115 58 + 57
+n= 115 Pr.Length= 9578
+n^2= 13225 diameter= 6555
+ratios: 0.7242 1.4612 
+Reached RN
+presentation Checked.
+
+n= 116 58 + 58
+n= 116 Pr.Length= 9748
+n^2= 13456 diameter= 6670
+ratios: 0.7244 1.4615 
+Reached RN
+presentation Checked.
+
+n= 117 59 + 58
+n= 117 Pr.Length= 9920
+n^2= 13689 diameter= 6786
+ratios: 0.7247 1.4618 
+Reached RN
+presentation Checked.
+
+n= 118 59 + 59
+n= 118 Pr.Length= 10093
+n^2= 13924 diameter= 6903
+ratios: 0.7249 1.4621 
+Reached RN
+presentation Checked.
+
+n= 119 60 + 59
+n= 119 Pr.Length= 10268
+n^2= 14161 diameter= 7021
+ratios: 0.7251 1.4625 
+Reached RN
+presentation Checked.
+
+n= 120 60 + 60
+n= 120 Pr.Length= 10444
+n^2= 14400 diameter= 7140
+ratios: 0.7253 1.4627 
+Reached RN
+presentation Checked.
+
+n= 121 61 + 60
+n= 121 Pr.Length= 10622
+n^2= 14641 diameter= 7260
+ratios: 0.7255 1.4631 
+Reached RN
+presentation Checked.
+
+n= 122 61 + 61
+n= 122 Pr.Length= 10801
+n^2= 14884 diameter= 7381
+ratios: 0.7257 1.4634 
+Reached RN
+presentation Checked.
+
+n= 123 62 + 61
+n= 123 Pr.Length= 10982
+n^2= 15129 diameter= 7503
+ratios: 0.7259 1.4637 
+Reached RN
+presentation Checked.
+
+n= 124 62 + 62
+n= 124 Pr.Length= 11164
+n^2= 15376 diameter= 7626
+ratios: 0.7261 1.4639 
+Reached RN
+presentation Checked.
+
+n= 125 63 + 62
+n= 125 Pr.Length= 11348
+n^2= 15625 diameter= 7750
+ratios: 0.7263 1.4643 
+Reached RN
+presentation Checked.
+
+n= 126 63 + 63
+n= 126 Pr.Length= 11533
+n^2= 15876 diameter= 7875
+ratios: 0.7264 1.4645 
+Reached RN
+presentation Checked.
+
+n= 127 64 + 63
+n= 127 Pr.Length= 11720
+n^2= 16129 diameter= 8001
+ratios: 0.7266 1.4648 
+Reached RN
+presentation Checked.
+
+n= 128 64 + 64
+n= 128 Pr.Length= 11908
+n^2= 16384 diameter= 8128
+ratios: 0.7268 1.4651 
+Reached RN
+presentation Checked.
+
+n= 129 65 + 64
+n= 129 Pr.Length= 12098
+n^2= 16641 diameter= 8256
+ratios: 0.7270 1.4654 
+Reached RN
+presentation Checked.
+
+n= 130 65 + 65
+n= 130 Pr.Length= 12289
+n^2= 16900 diameter= 8385
+ratios: 0.7272 1.4656 
+Reached RN
+presentation Checked.
+
+n= 131 66 + 65
+n= 131 Pr.Length= 12482
+n^2= 17161 diameter= 8515
+ratios: 0.7273 1.4659 
+Reached RN
+presentation Checked.
+
+n= 132 66 + 66
+n= 132 Pr.Length= 12676
+n^2= 17424 diameter= 8646
+ratios: 0.7275 1.4661 
+Reached RN
+presentation Checked.
+
+n= 133 67 + 66
+n= 133 Pr.Length= 12872
+n^2= 17689 diameter= 8778
+ratios: 0.7277 1.4664 
+Reached RN
+presentation Checked.
+
+n= 134 67 + 67
+n= 134 Pr.Length= 13069
+n^2= 17956 diameter= 8911
+ratios: 0.7278 1.4666 
+Reached RN
+presentation Checked.
+
+n= 135 68 + 67
+n= 135 Pr.Length= 13268
+n^2= 18225 diameter= 9045
+ratios: 0.7280 1.4669 
+Reached RN
+presentation Checked.
+
+n= 136 68 + 68
+n= 136 Pr.Length= 13468
+n^2= 18496 diameter= 9180
+ratios: 0.7282 1.4671 
+Reached RN
+presentation Checked.
+
+n= 137 69 + 68
+n= 137 Pr.Length= 13670
+n^2= 18769 diameter= 9316
+ratios: 0.7283 1.4674 
+Reached RN
+presentation Checked.
+
+n= 138 69 + 69
+n= 138 Pr.Length= 13873
+n^2= 19044 diameter= 9453
+ratios: 0.7285 1.4676 
+Reached RN
+presentation Checked.
+
+n= 139 70 + 69
+n= 139 Pr.Length= 14078
+n^2= 19321 diameter= 9591
+ratios: 0.7286 1.4678 
+Reached RN
+presentation Checked.
+
+n= 140 70 + 70
+n= 140 Pr.Length= 14284
+n^2= 19600 diameter= 9730
+ratios: 0.7288 1.4680 
+Reached RN
+presentation Checked.
+
+n= 141 71 + 70
+n= 141 Pr.Length= 14492
+n^2= 19881 diameter= 9870
+ratios: 0.7289 1.4683 
+Reached RN
+presentation Checked.
+
+n= 142 71 + 71
+n= 142 Pr.Length= 14701
+n^2= 20164 diameter= 10011
+ratios: 0.7291 1.4685 
+Reached RN
+presentation Checked.
+
+n= 143 72 + 71
+n= 143 Pr.Length= 14912
+n^2= 20449 diameter= 10153
+ratios: 0.7292 1.4687 
+Reached RN
+presentation Checked.
+
+n= 144 72 + 72
+n= 144 Pr.Length= 15124
+n^2= 20736 diameter= 10296
+ratios: 0.7294 1.4689 
+Reached RN
+presentation Checked.
+
+n= 145 73 + 72
+n= 145 Pr.Length= 15338
+n^2= 21025 diameter= 10440
+ratios: 0.7295 1.4692 
+Reached RN
+presentation Checked.
+
+n= 146 73 + 73
+n= 146 Pr.Length= 15553
+n^2= 21316 diameter= 10585
+ratios: 0.7296 1.4693 
+Reached RN
+presentation Checked.
+
+n= 147 74 + 73
+n= 147 Pr.Length= 15770
+n^2= 21609 diameter= 10731
+ratios: 0.7298 1.4696 
+Reached RN
+presentation Checked.
+
+n= 148 74 + 74
+n= 148 Pr.Length= 15988
+n^2= 21904 diameter= 10878
+ratios: 0.7299 1.4698 
+Reached RN
+presentation Checked.
+
+n= 149 75 + 74
+n= 149 Pr.Length= 16208
+n^2= 22201 diameter= 11026
+ratios: 0.7301 1.4700 
+Reached RN
+presentation Checked.
+
+n= 150 75 + 75
+n= 150 Pr.Length= 16429
+n^2= 22500 diameter= 11175
+ratios: 0.7302 1.4702 
+Reached RN
+presentation Checked.
+
+n= 151 76 + 75
+n= 151 Pr.Length= 16652
+n^2= 22801 diameter= 11325
+ratios: 0.7303 1.4704 
+Reached RN
+presentation Checked.
+
+n= 152 76 + 76
+n= 152 Pr.Length= 16876
+n^2= 23104 diameter= 11476
+ratios: 0.7304 1.4705 
+Reached RN
+presentation Checked.
+
+n= 153 77 + 76
+n= 153 Pr.Length= 17102
+n^2= 23409 diameter= 11628
+ratios: 0.7306 1.4708 
+Reached RN
+presentation Checked.
+
+n= 154 77 + 77
+n= 154 Pr.Length= 17329
+n^2= 23716 diameter= 11781
+ratios: 0.7307 1.4709 
+Reached RN
+presentation Checked.
+
+n= 155 78 + 77
+n= 155 Pr.Length= 17558
+n^2= 24025 diameter= 11935
+ratios: 0.7308 1.4711 
+Reached RN
+presentation Checked.
+
+n= 156 78 + 78
+n= 156 Pr.Length= 17788
+n^2= 24336 diameter= 12090
+ratios: 0.7309 1.4713 
+Reached RN
+presentation Checked.
+
+n= 157 79 + 78
+n= 157 Pr.Length= 18020
+n^2= 24649 diameter= 12246
+ratios: 0.7311 1.4715 
+Reached RN
+presentation Checked.
+
+n= 158 79 + 79
+n= 158 Pr.Length= 18253
+n^2= 24964 diameter= 12403
+ratios: 0.7312 1.4717 
+Reached RN
+presentation Checked.
+
+n= 159 80 + 79
+n= 159 Pr.Length= 18488
+n^2= 25281 diameter= 12561
+ratios: 0.7313 1.4719 
+Reached RN
+presentation Checked.
+
+n= 160 80 + 80
+n= 160 Pr.Length= 18724
+n^2= 25600 diameter= 12720
+ratios: 0.7314 1.4720 
+Reached RN
+presentation Checked.
+
+n= 161 81 + 80
+n= 161 Pr.Length= 18962
+n^2= 25921 diameter= 12880
+ratios: 0.7315 1.4722 
+Reached RN
+presentation Checked.
+
+n= 162 81 + 81
+n= 162 Pr.Length= 19201
+n^2= 26244 diameter= 13041
+ratios: 0.7316 1.4724 
+Reached RN
+presentation Checked.
+
+n= 163 82 + 81
+n= 163 Pr.Length= 19442
+n^2= 26569 diameter= 13203
+ratios: 0.7318 1.4725 
+Reached RN
+presentation Checked.
+
+n= 164 82 + 82
+n= 164 Pr.Length= 19684
+n^2= 26896 diameter= 13366
+ratios: 0.7319 1.4727 
+Reached RN
+presentation Checked.
+
+n= 165 83 + 82
+n= 165 Pr.Length= 19928
+n^2= 27225 diameter= 13530
+ratios: 0.7320 1.4729 
+Reached RN
+presentation Checked.
+
+n= 166 83 + 83
+n= 166 Pr.Length= 20173
+n^2= 27556 diameter= 13695
+ratios: 0.7321 1.4730 
+Reached RN
+presentation Checked.
+
+n= 167 84 + 83
+n= 167 Pr.Length= 20420
+n^2= 27889 diameter= 13861
+ratios: 0.7322 1.4732 
+Reached RN
+presentation Checked.
+
+n= 168 84 + 84
+n= 168 Pr.Length= 20668
+n^2= 28224 diameter= 14028
+ratios: 0.7323 1.4733 
+Reached RN
+presentation Checked.
+
+n= 169 85 + 84
+n= 169 Pr.Length= 20918
+n^2= 28561 diameter= 14196
+ratios: 0.7324 1.4735 
+Reached RN
+presentation Checked.
+
+n= 170 85 + 85
+n= 170 Pr.Length= 21169
+n^2= 28900 diameter= 14365
+ratios: 0.7325 1.4737 
+Reached RN
+presentation Checked.
+
+n= 171 86 + 85
+n= 171 Pr.Length= 21422
+n^2= 29241 diameter= 14535
+ratios: 0.7326 1.4738 
+Reached RN
+presentation Checked.
+
+n= 172 86 + 86
+n= 172 Pr.Length= 21676
+n^2= 29584 diameter= 14706
+ratios: 0.7327 1.4740 
+Reached RN
+presentation Checked.
+
+n= 173 87 + 86
+n= 173 Pr.Length= 21932
+n^2= 29929 diameter= 14878
+ratios: 0.7328 1.4741 
+Reached RN
+presentation Checked.
+
+n= 174 87 + 87
+n= 174 Pr.Length= 22189
+n^2= 30276 diameter= 15051
+ratios: 0.7329 1.4743 
+Reached RN
+presentation Checked.
+
+n= 175 88 + 87
+n= 175 Pr.Length= 22448
+n^2= 30625 diameter= 15225
+ratios: 0.7330 1.4744 
+Reached RN
+presentation Checked.
+
+n= 176 88 + 88
+n= 176 Pr.Length= 22708
+n^2= 30976 diameter= 15400
+ratios: 0.7331 1.4745 
+Reached RN
+presentation Checked.
+
+n= 177 89 + 88
+n= 177 Pr.Length= 22970
+n^2= 31329 diameter= 15576
+ratios: 0.7332 1.4747 
+Reached RN
+presentation Checked.
+
+n= 178 89 + 89
+n= 178 Pr.Length= 23233
+n^2= 31684 diameter= 15753
+ratios: 0.7333 1.4748 
+Reached RN
+presentation Checked.
+
+n= 179 90 + 89
+n= 179 Pr.Length= 23498
+n^2= 32041 diameter= 15931
+ratios: 0.7334 1.4750 
+Reached RN
+presentation Checked.
+
+n= 180 90 + 90
+n= 180 Pr.Length= 23764
+n^2= 32400 diameter= 16110
+ratios: 0.7335 1.4751 
+Reached RN
+presentation Checked.
+
+n= 181 91 + 90
+n= 181 Pr.Length= 24032
+n^2= 32761 diameter= 16290
+ratios: 0.7336 1.4753 
+Reached RN
+presentation Checked.
+
+n= 182 91 + 91
+n= 182 Pr.Length= 24301
+n^2= 33124 diameter= 16471
+ratios: 0.7336 1.4754 
+Reached RN
+presentation Checked.
+
