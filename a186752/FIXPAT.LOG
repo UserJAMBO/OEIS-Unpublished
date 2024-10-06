@@ -1,0 +1,208 @@
+
+
+Fixed pattern LXR presentation
+L
+Reached RN 2 1
+n= 2 length 1 -> 1 n^2:     4 (Length/n^2): 0.250000 
+XR
+Reached RN 3 2
+n= 3 length 2 -> 2 n^2:     9 (Length/n^2): 0.222222 
+XLLX
+Reached RN 4 4
+n= 4 length 4 -> 4 n^2:    16 (Length/n^2): 0.250000 
+XLXRXRRX
+Reached RN 5 8
+n= 5 length 8 -> 8 n^2:    25 (Length/n^2): 0.320000 
+XLXRXLLLXLXRX
+Reached RN 6 13
+n= 6 length 13 -> 13 n^2:    36 (Length/n^2): 0.361111 
+Reached RN 7 20
+n= 7 length 22 -> 20 n^2:    49 (Length/n^2): 0.408163 
+Reached RN 8 28
+n= 8 length 32 -> 28 n^2:    64 (Length/n^2): 0.437500 
+Reached RN 9 38
+n= 9 length 48 -> 38 n^2:    81 (Length/n^2): 0.469136 
+Reached RN 10 49
+n= 10 length 65 -> 49 n^2:   100 (Length/n^2): 0.490000 
+Reached RN 11 62
+n= 11 length 90 -> 62 n^2:   121 (Length/n^2): 0.512397 
+Reached RN 12 76
+n= 12 length 116 -> 76 n^2:   144 (Length/n^2): 0.527778 
+Reached RN 13 92
+n= 13 length 152 -> 92 n^2:   169 (Length/n^2): 0.544379 
+Reached RN 14 109
+n= 14 length 189 -> 109 n^2:   196 (Length/n^2): 0.556122 
+Reached RN 15 128
+n= 15 length 238 -> 128 n^2:   225 (Length/n^2): 0.568889 
+Reached RN 16 148
+n= 16 length 288 -> 148 n^2:   256 (Length/n^2): 0.578125 
+Reached RN 17 170
+n= 17 length 352 -> 170 n^2:   289 (Length/n^2): 0.588235 
+Reached RN 18 193
+n= 18 length 417 -> 193 n^2:   324 (Length/n^2): 0.595679 
+Reached RN 19 218
+n= 19 length 498 -> 218 n^2:   361 (Length/n^2): 0.603878 
+Reached RN 20 244
+n= 20 length 580 -> 244 n^2:   400 (Length/n^2): 0.610000 
+Reached RN 21 272
+n= 21 length 680 -> 272 n^2:   441 (Length/n^2): 0.616780 
+Reached RN 22 301
+n= 22 length 781 -> 301 n^2:   484 (Length/n^2): 0.621901 
+Reached RN 23 332
+n= 23 length 902 -> 332 n^2:   529 (Length/n^2): 0.627599 
+Reached RN 24 364
+n= 24 length 1024 -> 364 n^2:   576 (Length/n^2): 0.631944 
+Reached RN 25 398
+n= 25 length 1168 -> 398 n^2:   625 (Length/n^2): 0.636800 
+Reached RN 26 433
+n= 26 length 1313 -> 433 n^2:   676 (Length/n^2): 0.640533 
+Reached RN 27 470
+n= 27 length 1482 -> 470 n^2:   729 (Length/n^2): 0.644719 
+Reached RN 28 508
+n= 28 length 1652 -> 508 n^2:   784 (Length/n^2): 0.647959 
+Reached RN 29 548
+n= 29 length 1848 -> 548 n^2:   841 (Length/n^2): 0.651605 
+Reached RN 30 589
+n= 30 length 2045 -> 589 n^2:   900 (Length/n^2): 0.654444 
+Reached RN 31 632
+n= 31 length 2270 -> 632 n^2:   961 (Length/n^2): 0.657648 
+Reached RN 32 676
+n= 32 length 2496 -> 676 n^2:  1024 (Length/n^2): 0.660156 
+Reached RN 33 722
+n= 33 length 2752 -> 722 n^2:  1089 (Length/n^2): 0.662994 
+Reached RN 34 769
+n= 34 length 3009 -> 769 n^2:  1156 (Length/n^2): 0.665225 
+Reached RN 35 818
+n= 35 length 3298 -> 818 n^2:  1225 (Length/n^2): 0.667755 
+Reached RN 36 868
+n= 36 length 3588 -> 868 n^2:  1296 (Length/n^2): 0.669753 
+Reached RN 37 920
+n= 37 length 3912 -> 920 n^2:  1369 (Length/n^2): 0.672023 
+Reached RN 38 973
+n= 38 length 4237 -> 973 n^2:  1444 (Length/n^2): 0.673823 
+Reached RN 39 1028
+n= 39 length 4598 -> 1028 n^2:  1521 (Length/n^2): 0.675871 
+Reached RN 40 1084
+n= 40 length 4960 -> 1084 n^2:  1600 (Length/n^2): 0.677500 
+Reached RN 41 1142
+n= 41 length 5360 -> 1142 n^2:  1681 (Length/n^2): 0.679358 
+Reached RN 42 1201
+n= 42 length 5761 -> 1201 n^2:  1764 (Length/n^2): 0.680839 
+Reached RN 43 1262
+n= 43 length 6202 -> 1262 n^2:  1849 (Length/n^2): 0.682531 
+Reached RN 44 1324
+n= 44 length 6644 -> 1324 n^2:  1936 (Length/n^2): 0.683884 
+Reached RN 45 1388
+n= 45 length 7128 -> 1388 n^2:  2025 (Length/n^2): 0.685432 
+Reached RN 46 1453
+n= 46 length 7613 -> 1453 n^2:  2116 (Length/n^2): 0.686673 
+Reached RN 47 1520
+n= 47 length 8142 -> 1520 n^2:  2209 (Length/n^2): 0.688094 
+Reached RN 48 1588
+n= 48 length 8672 -> 1588 n^2:  2304 (Length/n^2): 0.689236 
+Reached RN 49 1658
+n= 49 length 9248 -> 1658 n^2:  2401 (Length/n^2): 0.690546 
+Reached RN 50 1729
+n= 50 length 9825 -> 1729 n^2:  2500 (Length/n^2): 0.691600 
+Reached RN 51 1802
+n= 51 length 10450 -> 1802 n^2:  2601 (Length/n^2): 0.692810 
+Reached RN 52 1876
+n= 52 length 11076 -> 1876 n^2:  2704 (Length/n^2): 0.693787 
+Reached RN 53 1952
+n= 53 length 11752 -> 1952 n^2:  2809 (Length/n^2): 0.694909 
+Reached RN 54 2029
+n= 54 length 12429 -> 2029 n^2:  2916 (Length/n^2): 0.695816 
+Reached RN 55 2108
+n= 55 length 13158 -> 2108 n^2:  3025 (Length/n^2): 0.696860 
+Reached RN 56 2188
+n= 56 length 13888 -> 2188 n^2:  3136 (Length/n^2): 0.697704 
+Reached RN 57 2270
+n= 57 length 14672 -> 2270 n^2:  3249 (Length/n^2): 0.698677 
+Reached RN 58 2353
+n= 58 length 15457 -> 2353 n^2:  3364 (Length/n^2): 0.699465 
+Reached RN 59 2438
+n= 59 length 16298 -> 2438 n^2:  3481 (Length/n^2): 0.700373 
+Reached RN 60 2524
+n= 60 length 17140 -> 2524 n^2:  3600 (Length/n^2): 0.701111 
+Reached RN 61 2612
+n= 61 length 18040 -> 2612 n^2:  3721 (Length/n^2): 0.701962 
+Reached RN 62 2701
+n= 62 length 18941 -> 2701 n^2:  3844 (Length/n^2): 0.702653 
+Reached RN 63 2792
+n= 63 length 19902 -> 2792 n^2:  3969 (Length/n^2): 0.703452 
+Reached RN 64 2884
+n= 64 length 20864 -> 2884 n^2:  4096 (Length/n^2): 0.704102 
+Reached RN 65 2978
+n= 65 length 21888 -> 2978 n^2:  4225 (Length/n^2): 0.704852 
+Reached RN 66 3073
+n= 66 length 22913 -> 3073 n^2:  4356 (Length/n^2): 0.705464 
+Reached RN 67 3170
+n= 67 length 24002 -> 3170 n^2:  4489 (Length/n^2): 0.706171 
+Reached RN 68 3268
+n= 68 length 25092 -> 3268 n^2:  4624 (Length/n^2): 0.706747 
+Reached RN 69 3368
+n= 69 length 26248 -> 3368 n^2:  4761 (Length/n^2): 0.707414 
+Reached RN 70 3469
+n= 70 length 27405 -> 3469 n^2:  4900 (Length/n^2): 0.707959 
+Reached RN 71 3572
+n= 71 length 28630 -> 3572 n^2:  5041 (Length/n^2): 0.708590 
+Reached RN 72 3676
+n= 72 length 29856 -> 3676 n^2:  5184 (Length/n^2): 0.709105 
+Reached RN 73 3782
+n= 73 length 31152 -> 3782 n^2:  5329 (Length/n^2): 0.709702 
+Reached RN 74 3889
+n= 74 length 32449 -> 3889 n^2:  5476 (Length/n^2): 0.710190 
+Reached RN 75 3998
+n= 75 length 33818 -> 3998 n^2:  5625 (Length/n^2): 0.710756 
+Reached RN 76 4108
+n= 76 length 35188 -> 4108 n^2:  5776 (Length/n^2): 0.711219 
+Reached RN 77 4220
+n= 77 length 36632 -> 4220 n^2:  5929 (Length/n^2): 0.711756 
+Reached RN 78 4333
+n= 78 length 38077 -> 4333 n^2:  6084 (Length/n^2): 0.712196 
+Reached RN 79 4448
+n= 79 length 39598 -> 4448 n^2:  6241 (Length/n^2): 0.712706 
+Reached RN 80 4564
+n= 80 length 41120 -> 4564 n^2:  6400 (Length/n^2): 0.713125 
+Reached RN 81 4682
+n= 81 length 42720 -> 4682 n^2:  6561 (Length/n^2): 0.713611 
+Reached RN 82 4801
+n= 82 length 44321 -> 4801 n^2:  6724 (Length/n^2): 0.714010 
+Reached RN 83 4922
+n= 83 length 46002 -> 4922 n^2:  6889 (Length/n^2): 0.714472 
+Reached RN 84 5044
+n= 84 length 47684 -> 5044 n^2:  7056 (Length/n^2): 0.714853 
+Reached RN 85 5168
+n= 85 length 49448 -> 5168 n^2:  7225 (Length/n^2): 0.715294 
+Reached RN 86 5293
+n= 86 length 51213 -> 5293 n^2:  7396 (Length/n^2): 0.715657 
+Reached RN 87 5420
+n= 87 length 53062 -> 5420 n^2:  7569 (Length/n^2): 0.716079 
+Reached RN 88 5548
+n= 88 length 54912 -> 5548 n^2:  7744 (Length/n^2): 0.716426 
+Reached RN 89 5678
+n= 89 length 56848 -> 5678 n^2:  7921 (Length/n^2): 0.716829 
+Reached RN 90 5809
+n= 90 length 58785 -> 5809 n^2:  8100 (Length/n^2): 0.717160 
+Reached RN 91 5942
+n= 91 length 60810 -> 5942 n^2:  8281 (Length/n^2): 0.717546 
+Reached RN 92 6076
+n= 92 length 62836 -> 6076 n^2:  8464 (Length/n^2): 0.717864 
+Reached RN 93 6212
+n= 93 length 64952 -> 6212 n^2:  8649 (Length/n^2): 0.718233 
+Reached RN 94 6349
+n= 94 length 67069 -> 6349 n^2:  8836 (Length/n^2): 0.718538 
+Reached RN 95 6488
+n= 95 length 69278 -> 6488 n^2:  9025 (Length/n^2): 0.718892 
+Reached RN 96 6628
+n= 96 length 71488 -> 6628 n^2:  9216 (Length/n^2): 0.719184 
+Reached RN 97 6770
+n= 97 length 73792 -> 6770 n^2:  9409 (Length/n^2): 0.719524 
+Reached RN 98 6913
+n= 98 length 76097 -> 6913 n^2:  9604 (Length/n^2): 0.719804 
+Reached RN 99 7058
+n= 99 length 78498 -> 7058 n^2:  9801 (Length/n^2): 0.720131 
+Reached RN 100 7204
+n= 100 length 80900 -> 7204 n^2: 10000 (Length/n^2): 0.720400 
+
+
