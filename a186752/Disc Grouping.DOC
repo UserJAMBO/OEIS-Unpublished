@@ -1,0 +1,100 @@
+
+Grouping the n! permutations into (n-1)! disks 
+
+Each disc is identified 
+by placing "1" in the first position.
+A swap(1,2) is required to switch to another disk.
+Reverse() and Last() belong to the same disk.
+And their distance is exactly two rotations.
+
+S_4
+Disk  All 4 rotates
+----  --------------------
+1234  2341,3412,4123, 1234
+1243  
+...
+1432  4321 (Rev), 2143 (Last), 3214, 1432.
+
+Reverse(I_4)= 4321, disk= 1432
+Last(I_4)= 2143, disk= 1432
+------------------------------
+S_5 54321 (2rot)-> 21543. Disk= 15432.
+---------------------------------------
+
+This shows that if reaching Reverse(I_n) 
+requires k steps, 
+reaching Last(I_n) requires 2 additional steps.
+Putting this in context:
+d(I_n,R_n)+2 = d(I_n,Last_n) 
+= Diameter(S_n)= n(n-1)/2
+-------------------------
+
+Results from script disc.gp
+From disc A to disc B, number of (1,2)
+
+n, Diameter(S_n), (n-1)!
+- - -
+4 6 6
+e= 1 num Ones= 5
+e= 2 num Ones= 6
+On: 2 contains B= 6
+
+5 10 24
+e= 1 num Ones= 6
+e= 2 num Ones= 16
+e= 3 num Ones= 23
+e= 4 num Ones= 24
+On: 4 contains B= 24
+
+6 15 120
+e= 1 num Ones= 7
+e= 2 num Ones= 28
+e= 3 num Ones= 72
+e= 4 num Ones= 113
+e= 5 num Ones= 119
+e= 6 num Ones= 120
+On: 6 contains B= 120
+
+7 21 720
+e= 1 num Ones= 8
+e= 2 num Ones= 36
+e= 3 num Ones= 113
+e= 4 num Ones= 267
+e= 5 num Ones= 484
+e= 6 num Ones= 654
+e= 7 num Ones= 712
+e= 8 num Ones= 719
+e= 9 num Ones= 720
+On: 9 contains B= 720
+---------------------
+   S_n               n Even, n=2*h
+n  Diameter #(1,2)   2*(h^2-h)+h
+-  -------- ------   ---------------
+4  6        2        2*2+2
+5  10       4        
+6  15       6        2*6+3
+7  21       9        
+8  28       12       2*12+4
+9  36       16       
+10 45       20       2*20+5
+11 55       25       
+12 66       30       2*30+6
+13 78       36       
+---------------------------
+Then:
+For n even, n=2*h, Diameter(S_n)= 2*(h^2-h)+h
+= n(n-1)/2.
+Same for n odd.
+
+For n even,
+The number of disk changes (X(1,2)) is (h^2-h).
+The number of disk rotates is h^2.
+For n Odd,
+         Diameter(S_n)= 2*#(1,2) + floor(n/2)
+n        Diameter(S_n)
+5        2*4 +2=10
+7        2*9 +3=21
+9        2*16+4=36
+11       2*25+5=55
+13       2*36+6=78
+------------------

@@ -1,0 +1,1712 @@
+
+28 September 2024
+=================
+
+a(12)=64, 12minutes
+a(13)=76. 3H 20 minutes
+-----------------------
+
+
+(08:46) gp > \r     d:\jitm13.gp
+
+Group= 12 Diameter= 66
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  0 ms
+expand 1 1 -> <tolis>  3
+listsort <tolis>
+<tolis> setminus some Sets
+-1 
+Test some <tolis> setintersect
+ ?2
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  46 ms
+expand 2 1 -> <tolis>  4
+listsort <tolis>
+<tolis> setminus some Sets
+-2 
+Test some <tolis> setintersect
+ ?1 ?3
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  62 ms
+expand 3 3 -> <tolis>  5
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 
+Test some <tolis> setintersect
+ ?2 ?4
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  124 ms
+expand 4 3 -> <tolis>  6
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 
+Test some <tolis> setintersect
+ ?1 ?3 ?5
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  124 ms
+expand 5 6 -> <tolis>  7
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 
+Test some <tolis> setintersect
+ ?2 ?4 ?6
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  124 ms
+expand 6 6 -> <tolis>  8
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  170 ms
+expand 7 12 -> <tolis>  9
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  176 ms
+expand 8 12 -> <tolis>  10
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  177 ms
+expand 9 24 -> <tolis>  11
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  177 ms
+expand 10 24 -> <tolis>  12
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  208 ms
+expand 11 48 -> <tolis>  13
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  239 ms
+expand 12 48 -> <tolis>  14
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  255 ms
+expand 13 90 -> <tolis>  15
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  255 ms
+expand 14 90 -> <tolis>  16
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  286 ms
+expand 15 168 -> <tolis>  17
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  333 ms
+expand 16 168 -> <tolis>  18
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  352 ms
+expand 17 314 -> <tolis>  19
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  399 ms
+expand 18 314 -> <tolis>  20
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  430 ms
+expand 19 572 -> <tolis>  21
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  477 ms
+expand 20 572 -> <tolis>  22
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  508 ms
+expand 21 1033 -> <tolis>  23
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  534 ms
+expand 22 1033 -> <tolis>  24
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  566 ms
+expand 23 1850 -> <tolis>  25
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  612 ms
+expand 24 1850 -> <tolis>  26
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  659 ms
+expand 25 3263 -> <tolis>  27
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  722 ms
+expand 26 3263 -> <tolis>  28
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 22672
+CLK  784 ms
+expand 27 5701 -> <tolis>  29
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 1
+MEM  Heap: [0, 0] B_Stack: 22696
+CLK  862 ms
+expand 28 5701 -> <tolis>  30
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 1
+MEM  Heap: [0, 0] B_Stack: 22696
+CLK  940 ms
+expand 29 9863 -> <tolis>  31
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 2
+MEM  Heap: [0, 0] B_Stack: 22696
+CLK  1,081 ms
+expand 30 9863 -> <tolis>  32
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 2
+MEM  Heap: [0, 0] B_Stack: 22696
+CLK  1,222 ms
+expand 31 16759 -> <tolis>  33
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 3
+MEM  Heap: [0, 0] B_Stack: 22696
+CLK  1,456 ms
+expand 32 16759 -> <tolis>  34
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 4
+MEM  Heap: [0, 0] B_Stack: 22696
+CLK  1,690 ms
+expand 33 27866 -> <tolis>  35
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 5
+MEM  Heap: [0, 0] B_Stack: 22696
+CLK  2,081 ms
+expand 34 27866 -> <tolis>  36
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 7
+MEM  Heap: [0, 0] B_Stack: 22696
+CLK  2,471 ms
+expand 35 45291 -> <tolis>  37
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 9
+MEM  Heap: [0, 1] B_Stack: 22720
+CLK  3,096 ms
+expand 36 45291 -> <tolis>  38
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 11
+MEM  Heap: [0, 1] B_Stack: 22720
+CLK  3,721 ms
+expand 37 72099 -> <tolis>  39
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 15
+MEM  Heap: [0, 1] B_Stack: 22720
+CLK  4,721 ms
+expand 38 72099 -> <tolis>  40
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 19
+MEM  Heap: [0, 2] B_Stack: 22720
+CLK  5,768 ms
+expand 39 112521 -> <tolis>  41
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 24
+MEM  Heap: [0, 3] B_Stack: 22720
+CLK  7,439 ms
+expand 40 112521 -> <tolis>  42
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 0 MB= 30
+MEM  Heap: [0, 3] B_Stack: 22720
+CLK  9,111 ms
+expand 41 171929 -> <tolis>  43
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 1 MB= 38
+MEM  Heap: [0, 4] B_Stack: 22744
+CLK  11,587 ms
+expand 42 171929 -> <tolis>  44
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 1 MB= 46
+MEM  Heap: [0, 5] B_Stack: 22744
+CLK  14,197 ms
+expand 43 257112 -> <tolis>  45
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 1 MB= 58
+MEM  Heap: [0, 7] B_Stack: 22744
+CLK  18,212 ms
+expand 44 257112 -> <tolis>  46
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 2 MB= 70
+MEM  Heap: [0, 8] B_Stack: 22744
+CLK  22,133 ms
+expand 45 377904 -> <tolis>  47
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 2 MB= 88
+MEM  Heap: [0, 11] B_Stack: 22744
+CLK  28,178 ms
+expand 46 377904 -> <tolis>  48
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 3 MB= 105
+MEM  Heap: [0, 13] B_Stack: 22744
+CLK  34,260 ms
+expand 47 545894 -> <tolis>  49
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 4 MB= 130
+MEM  Heap: [0, 16] B_Stack: 22744
+CLK  43,196 ms
+expand 48 545894 -> <tolis>  50
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 4 MB= 155
+MEM  Heap: [0, 19] B_Stack: 22744
+CLK  52,279 ms
+expand 49 773038 -> <tolis>  51
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 5 MB= 189
+MEM  Heap: [0, 23] B_Stack: 22744
+CLK  1min, 5,203 ms
+expand 50 773038 -> <tolis>  52
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 6 MB= 223
+MEM  Heap: [0, 27] B_Stack: 22744
+CLK  1min, 18,071 ms
+expand 51 1075171 -> <tolis>  53
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 8 MB= 271
+MEM  Heap: [0, 33] B_Stack: 22744
+CLK  1min, 36,411 ms
+expand 52 1075171 -> <tolis>  54
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 9 MB= 318
+MEM  Heap: [0, 39] B_Stack: 22744
+CLK  1min, 54,829 ms
+expand 53 1473589 -> <tolis>  55
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 11 MB= 381
+MEM  Heap: [0, 47] B_Stack: 22744
+CLK  2min, 20,244 ms
+expand 54 1473589 -> <tolis>  56
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 13 MB= 445
+MEM  Heap: [0, 55] B_Stack: 22744
+CLK  2min, 46,457 ms
+expand 55 1986076 -> <tolis>  57
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 16 MB= 529
+MEM  Heap: [0, 66] B_Stack: 22744
+CLK  3min, 21,777 ms
+expand 56 1986076 -> <tolis>  58
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 19 MB= 613
+MEM  Heap: [0, 76] B_Stack: 22744
+CLK  3min, 56,847 ms
+expand 57 2630262 -> <tolis>  59
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 22 MB= 723
+MEM  Heap: [0, 90] B_Stack: 22744
+CLK  4min, 45,039 ms
+expand 58 2630262 -> <tolis>  60
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 26 MB= 833
+MEM  Heap: [0, 104] B_Stack: 22744
+CLK  5min, 33,121 ms
+expand 59 3432644 -> <tolis>  61
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 30 MB= 974
+MEM  Heap: [0, 121] B_Stack: 22744
+CLK  6min, 36,311 ms
+expand 60 3432644 -> <tolis>  62
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 34 MB= 1115
+MEM  Heap: [0, 139] B_Stack: 22744
+CLK  7min, 40,315 ms
+expand 61 4416186 -> <tolis>  63
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 -61 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60 ?62
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 40 MB= 1294
+MEM  Heap: [0, 161] B_Stack: 22744
+CLK  9min, 4,630 ms
+expand 62 4416186 -> <tolis>  64
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 -62 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61 ?63
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 46 MB= 1473
+MEM  Heap: [0, 184] B_Stack: 22744
+CLK  10min, 28,397 ms
+expand 63 5590709 -> <tolis>  65
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 -61 -63 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60 ?62 ?64
+Sort set <tolis>
+Group Sn= 12 of Diameter= 66
+Before next expand: 
+MegaItems= 53 MB= 1696
+MEM  Heap: [0, 212] B_Stack: 22744
+CLK  12min, 14,856 ms
+expand 64 5590709 -> <tolis>  66
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 -62 -64 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61 ?63 ?65
+Meet at :  66 65 --> 32 32 --> 64
+
+MEET. SL= 12 Diameter= 66 a(SL)= 64
+
+Deallocate memory
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+13
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+Group= 13 Diameter= 78
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,361 ms
+expand 1 1 -> <tolis>  3
+listsort <tolis>
+<tolis> setminus some Sets
+-1 
+Test some <tolis> setintersect
+ ?2
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,361 ms
+expand 2 1 -> <tolis>  4
+listsort <tolis>
+<tolis> setminus some Sets
+-2 
+Test some <tolis> setintersect
+ ?1 ?3
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,421 ms
+expand 3 3 -> <tolis>  5
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 
+Test some <tolis> setintersect
+ ?2 ?4
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,437 ms
+expand 4 3 -> <tolis>  6
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 
+Test some <tolis> setintersect
+ ?1 ?3 ?5
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,469 ms
+expand 5 6 -> <tolis>  7
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 
+Test some <tolis> setintersect
+ ?2 ?4 ?6
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,516 ms
+expand 6 6 -> <tolis>  8
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,516 ms
+expand 7 12 -> <tolis>  9
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,547 ms
+expand 8 12 -> <tolis>  10
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,607 ms
+expand 9 24 -> <tolis>  11
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,625 ms
+expand 10 24 -> <tolis>  12
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,641 ms
+expand 11 48 -> <tolis>  13
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,656 ms
+expand 12 48 -> <tolis>  14
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,687 ms
+expand 13 91 -> <tolis>  15
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,759 ms
+expand 14 91 -> <tolis>  16
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,777 ms
+expand 15 170 -> <tolis>  17
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,818 ms
+expand 16 170 -> <tolis>  18
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,832 ms
+expand 17 319 -> <tolis>  19
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,880 ms
+expand 18 319 -> <tolis>  20
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,896 ms
+expand 19 584 -> <tolis>  21
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,927 ms
+expand 20 584 -> <tolis>  22
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 56,959 ms
+expand 21 1063 -> <tolis>  23
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 57,021 ms
+expand 22 1063 -> <tolis>  24
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 57,099 ms
+expand 23 1920 -> <tolis>  25
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 57,130 ms
+expand 24 1920 -> <tolis>  26
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 57,162 ms
+expand 25 3421 -> <tolis>  27
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 57,208 ms
+expand 26 3421 -> <tolis>  28
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 0
+MEM  Heap: [0, 0] B_Stack: 23120
+CLK  13min, 57,255 ms
+expand 27 6052 -> <tolis>  29
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 1
+MEM  Heap: [0, 0] B_Stack: 23144
+CLK  13min, 57,333 ms
+expand 28 6052 -> <tolis>  30
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 1
+MEM  Heap: [0, 0] B_Stack: 23144
+CLK  13min, 57,412 ms
+expand 29 10634 -> <tolis>  31
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 2
+MEM  Heap: [0, 0] B_Stack: 23144
+CLK  13min, 57,553 ms
+expand 30 10634 -> <tolis>  32
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 2
+MEM  Heap: [0, 0] B_Stack: 23144
+CLK  13min, 57,694 ms
+expand 31 18473 -> <tolis>  33
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 3
+MEM  Heap: [0, 0] B_Stack: 23144
+CLK  13min, 57,944 ms
+expand 32 18473 -> <tolis>  34
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 4
+MEM  Heap: [0, 0] B_Stack: 23144
+CLK  13min, 58,194 ms
+expand 33 31652 -> <tolis>  35
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 6
+MEM  Heap: [0, 0] B_Stack: 23144
+CLK  13min, 58,631 ms
+expand 34 31652 -> <tolis>  36
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 8
+MEM  Heap: [0, 1] B_Stack: 23168
+CLK  13min, 59,053 ms
+expand 35 53352 -> <tolis>  37
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 11
+MEM  Heap: [0, 1] B_Stack: 23168
+CLK  15min, 14,265 ms
+expand 36 53352 -> <tolis>  38
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 13
+MEM  Heap: [0, 1] B_Stack: 23168
+CLK  15min, 14,999 ms
+expand 37 88140 -> <tolis>  39
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 18
+MEM  Heap: [0, 2] B_Stack: 23168
+CLK  15min, 16,249 ms
+expand 38 88140 -> <tolis>  40
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 22
+MEM  Heap: [0, 2] B_Stack: 23168
+CLK  15min, 17,561 ms
+expand 39 142883 -> <tolis>  41
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 0 MB= 30
+MEM  Heap: [0, 3] B_Stack: 23168
+CLK  15min, 19,623 ms
+expand 40 142883 -> <tolis>  42
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 1 MB= 37
+MEM  Heap: [0, 4] B_Stack: 23192
+CLK  15min, 21,763 ms
+expand 41 227466 -> <tolis>  43
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 1 MB= 48
+MEM  Heap: [0, 6] B_Stack: 23192
+CLK  15min, 25,278 ms
+expand 42 227466 -> <tolis>  44
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 1 MB= 60
+MEM  Heap: [0, 7] B_Stack: 23192
+CLK  15min, 28,891 ms
+expand 43 355271 -> <tolis>  45
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 2 MB= 77
+MEM  Heap: [0, 9] B_Stack: 23192
+CLK  15min, 34,469 ms
+expand 44 355271 -> <tolis>  46
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 2 MB= 95
+MEM  Heap: [0, 11] B_Stack: 23192
+CLK  15min, 40,171 ms
+expand 45 544412 -> <tolis>  47
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 3 MB= 121
+MEM  Heap: [0, 15] B_Stack: 23192
+CLK  15min, 49,253 ms
+expand 46 544412 -> <tolis>  48
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 4 MB= 147
+MEM  Heap: [0, 18] B_Stack: 23192
+CLK  15min, 58,250 ms
+expand 47 820735 -> <tolis>  49
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 5 MB= 186
+MEM  Heap: [0, 23] B_Stack: 23192
+CLK  16min, 12,047 ms
+expand 48 820735 -> <tolis>  50
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 7 MB= 225
+MEM  Heap: [0, 28] B_Stack: 23192
+CLK  16min, 26,124 ms
+expand 49 1216936 -> <tolis>  51
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 8 MB= 282
+MEM  Heap: [0, 35] B_Stack: 23192
+CLK  16min, 47,329 ms
+expand 50 1216936 -> <tolis>  52
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 10 MB= 339
+MEM  Heap: [0, 42] B_Stack: 23192
+CLK  17min, 8,746 ms
+expand 51 1773910 -> <tolis>  53
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 13 MB= 420
+MEM  Heap: [0, 52] B_Stack: 23192
+CLK  17min, 40,719 ms
+expand 52 1773910 -> <tolis>  54
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 15 MB= 501
+MEM  Heap: [0, 62] B_Stack: 23192
+CLK  18min, 12,790 ms
+expand 53 2544596 -> <tolis>  55
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 19 MB= 617
+MEM  Heap: [0, 77] B_Stack: 23192
+CLK  19min, 155 ms
+expand 54 2544596 -> <tolis>  56
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 22 MB= 732
+MEM  Heap: [0, 91] B_Stack: 23192
+CLK  19min, 47,278 ms
+expand 55 3598674 -> <tolis>  57
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 27 MB= 892
+MEM  Heap: [0, 111] B_Stack: 23192
+CLK  20min, 55,419 ms
+expand 56 3598674 -> <tolis>  58
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 32 MB= 1053
+MEM  Heap: [0, 131] B_Stack: 23192
+CLK  22min, 4,677 ms
+expand 57 5013032 -> <tolis>  59
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 39 MB= 1273
+MEM  Heap: [0, 159] B_Stack: 23192
+CLK  23min, 41,584 ms
+expand 58 5013032 -> <tolis>  60
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 46 MB= 1493
+MEM  Heap: [0, 186] B_Stack: 23192
+CLK  50min, 45,132 ms
+expand 59 6880807 -> <tolis>  61
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 55 MB= 1791
+MEM  Heap: [0, 223] B_Stack: 23192
+CLK  53min, 4,114 ms
+expand 60 6880807 -> <tolis>  62
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 65 MB= 2089
+MEM  Heap: [0, 261] B_Stack: 23192
+CLK  55min, 24,060 ms
+expand 61 9320848 -> <tolis>  63
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 -61 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60 ?62
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 77 MB= 2488
+MEM  Heap: [0, 311] B_Stack: 23192
+CLK  58min, 36,784 ms
+expand 62 9320848 -> <tolis>  64
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 -62 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61 ?63
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 90 MB= 2887
+MEM  Heap: [0, 360] B_Stack: 23192
+CLK  1h, 1min, 49,767 ms
+expand 63 12458079 -> <tolis>  65
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 -61 -63 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60 ?62 ?64
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 106 MB= 3413
+MEM  Heap: [0, 426] B_Stack: 23192
+CLK  1h, 6min, 14,572 ms
+expand 64 12458079 -> <tolis>  66
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 -62 -64 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61 ?63 ?65
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 123 MB= 3938
+MEM  Heap: [0, 492] B_Stack: 23192
+CLK  1h, 10min, 43,784 ms
+expand 65 16429644 -> <tolis>  67
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 -61 -63 -65 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60 ?62 ?64 ?66
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 144 MB= 4623
+MEM  Heap: [0, 577] B_Stack: 23192
+CLK  1h, 16min, 34,137 ms
+expand 66 16429644 -> <tolis>  68
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 -62 -64 -66 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61 ?63 ?65 ?67
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 165 MB= 5308
+MEM  Heap: [0, 663] B_Stack: 23192
+CLK  1h, 22min, 22,572 ms
+expand 67 21396997 -> <tolis>  69
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 -61 -63 -65 -67 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60 ?62 ?64 ?66 ?68
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 193 MB= 6189
+MEM  Heap: [0, 773] B_Stack: 23192
+CLK  1h, 30min, 952 ms
+expand 68 21396997 -> <tolis>  70
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 -62 -64 -66 -68 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61 ?63 ?65 ?67 ?69
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 220 MB= 7070
+MEM  Heap: [0, 883] B_Stack: 23192
+CLK  1h, 37min, 52,360 ms
+expand 69 27535909 -> <tolis>  71
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 -61 -63 -65 -67 -69 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60 ?62 ?64 ?66 ?68 ?70
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 255 MB= 8190
+MEM  Heap: [0, 1023] B_Stack: 23192
+CLK  1h, 48min, 38,429 ms
+expand 70 27535909 -> <tolis>  72
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 -62 -64 -66 -68 -70 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61 ?63 ?65 ?67 ?69 ?71
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 290 MB= 9310
+MEM  Heap: [0, 1163] B_Stack: 23192
+CLK  1h, 59min, 21,682 ms
+expand 71 34994952 -> <tolis>  73
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 -61 -63 -65 -67 -69 -71 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60 ?62 ?64 ?66 ?68 ?70 ?72
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 334 MB= 10716
+MEM  Heap: [0, 1339] B_Stack: 23192
+CLK  2h, 12min, 54,131 ms
+expand 72 34994952 -> <tolis>  74
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 -62 -64 -66 -68 -70 -72 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61 ?63 ?65 ?67 ?69 ?71 ?73
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 378 MB= 12123
+MEM  Heap: [0, 1515] B_Stack: 23192
+CLK  2h, 26min, 57,906 ms
+expand 73 43951613 -> <tolis>  75
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 -61 -63 -65 -67 -69 -71 -73 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60 ?62 ?64 ?66 ?68 ?70 ?72 ?74
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 433 MB= 13869
+MEM  Heap: [0, 1733] B_Stack: 23192
+CLK  2h, 45min, 3,242 ms
+expand 74 43951613 -> <tolis>  76
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 -62 -64 -66 -68 -70 -72 -74 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61 ?63 ?65 ?67 ?69 ?71 ?73 ?75
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 487 MB= 15615
+MEM  Heap: [0, 1951] B_Stack: 23192
+CLK  3h, 3min, 35,319 ms
+expand 75 54575165 -> <tolis>  77
+listsort <tolis>
+<tolis> setminus some Sets
+-1 -3 -5 -7 -9 -11 -13 -15 -17 -19 -21 -23 -25 -27 -29 -31 -33 -35 -37 -39 -41 -43 -45 -47 -49 -51 -53 -55 -57 -59 -61 -63 -65 -67 -69 -71 -73 -75 
+Test some <tolis> setintersect
+ ?2 ?4 ?6 ?8 ?10 ?12 ?14 ?16 ?18 ?20 ?22 ?24 ?26 ?28 ?30 ?32 ?34 ?36 ?38 ?40 ?42 ?44 ?46 ?48 ?50 ?52 ?54 ?56 ?58 ?60 ?62 ?64 ?66 ?68 ?70 ?72 ?74 ?76
+Sort set <tolis>
+Group Sn= 13 of Diameter= 78
+Before next expand: 
+MegaItems= 554 MB= 17759
+MEM  Heap: [0, 2219] B_Stack: 23192
+CLK  3h, 26min, 42,419 ms
+expand 76 54575165 -> <tolis>  78
+listsort <tolis>
+<tolis> setminus some Sets
+-2 -4 -6 -8 -10 -12 -14 -16 -18 -20 -22 -24 -26 -28 -30 -32 -34 -36 -38 -40 -42 -44 -46 -48 -50 -52 -54 -56 -58 -60 -62 -64 -66 -68 -70 -72 -74 -76 
+Test some <tolis> setintersect
+ ?1 ?3 ?5 ?7 ?9 ?11 ?13 ?15 ?17 ?19 ?21 ?23 ?25 ?27 ?29 ?31 ?33 ?35 ?37 ?39 ?41 ?43 ?45 ?47 ?49 ?51 ?53 ?55 ?57 ?59 ?61 ?63 ?65 ?67 ?69 ?71 ?73 ?75 ?77
+Meet at :  78 77 --> 38 38 --> 76
+
+MEET. SL= 13 Diameter= 78 a(SL)= 76
+
+Deallocate memory
+
